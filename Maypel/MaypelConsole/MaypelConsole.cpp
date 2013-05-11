@@ -25,15 +25,15 @@
 
 	// Attempt to directly launch MapleStory.
 	if( ! ::CreateProcess( TEXT( "MapleStory.exe" ),
-						   TEXT( " -GameLaunching" ),
-						   NULL,
-						   NULL,
-						   FALSE,
-						   NULL,
-						   NULL,
-						   NULL,
-						   &MSStartUpInfo,
-						   &MSProcInfo ) )
+			       TEXT( " WebStart" ), // 64bit = GameLaunching, 32bit =  WebStart.
+			       NULL,
+			       NULL,
+			       FALSE,
+			       NULL,
+			       NULL,
+			       NULL,
+			       &MSStartUpInfo,
+			       &MSProcInfo ) )
 	{
 		Ret = ::GetLastError();
 	}
