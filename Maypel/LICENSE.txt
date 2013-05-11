@@ -1,0 +1,31 @@
+LICENSE AGREEMENT
+
+This License Agreement ("Agreement") accompanies the version 1.1 Maypel.exe, MaypelW.dll
+and related files ("Application"). By using the Application, you agree to be bound by all
+terms and conditions of the Agreement.
+
+The Software is distributed "as is", without warranty of any kind, expressed
+or implied, including, but not limited to the warrant of fitness for any
+particular purpose. In no event shall and will Kernel.Win@aol.com ("Author") be liable
+to you for any special, incidental, indirect, consequential or any other damages caused
+by the use, miuse, or the inability to use the Software, including any lost profits,
+savings, and properties of any kind, even if Author has been advised of the possiblity
+of such damages.
+
+The Software is owned Author and is Copyright (c) 2013 Kernel. You may install the
+Software on any number of storage devices, like hard disks, floopy disks, flash drive
+etc. and are allowed to many any number of backup copies of this Software.
+
+You are not allowed to modify, decompile, disassemble or reverse engineer the Software
+except and only to the extent that such activity is expressly permitted by applicable
+law. You are not allowed to distribute or use any parts of the Software separately.
+You may make and distribute copies of this Software provided that a) the copy contains
+all files from the original distribution and these files remain unchanged; b) if you
+distribute any other files with the Software, they must be clearly marked as such
+and the conditions of their use cannot be more restrictive than conditions of this
+Agreement; c) you collect no fee (except for transport media, like diskette or CD);
+and d) you must give credits to the Author.
+
+The original distrubtion includes files MaypelConsole 1.0.exe, MaypelW.dll and LICENSE.txt.
+These files should be installed in the directory where the Software resides. You are not
+allowed to distribute separately from the Software.
