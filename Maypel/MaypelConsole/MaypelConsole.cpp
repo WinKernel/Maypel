@@ -1,7 +1,7 @@
 #include "MaypelConsole.h"
 
 #include <io.h>
-// (CreateProcess(MSpath, " WebStart", IntPtr.Zero, IntPtr.Zero, false, 4, IntPtr.Zero, null, ref StartupInfo, out ProcessInfo))
+
 /**
 	This function is used to launch MapleStory, directly.
 */
